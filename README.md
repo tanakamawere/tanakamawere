@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanakamawere
 - 👀 I’m interested in Medicine and coding
-- 🌱 I’m currently learning Xamarin development
+- 🌱 I’m currently learning Xamarin development. I really do think the programming ecosystem that Microsoft has created is amazing. 
 - 💞️ I’m looking to collaborate on a Medical MCQ application
 - 📫 How to reach me: unfortunately, not yet.
