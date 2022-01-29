@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanakamawere
-- 👀 I’m interested in Medicine and coding
-- 🌱 I’m currently learning Xamarin development. I really do think the programming ecosystem that Microsoft has created is amazing. 
-- 💞️ I’m looking to collaborate on a Medical MCQ application
-- 📫 How to reach me: unfortunately, not yet.
+- 👀 A medical student and self-taught programmer in C#
+- 🌱 I use the dotNET platform for everything. Can't wait for .NET MAUI to be GA
+- 💞️ I’m looking to collaborate on any interesting projects, especially the back-ends. 
+- 📫 How to reach me: go to my website @ https://tanakamawere.co.zw
