@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanaka Mawere</h1>
 <h3 align="center">A passionate C# Developer from Harare</h3>
 
-- 🔭 I’m currently working on [Medbase](https://medbase.co.zw)
+- 🔭 I’m currently working on [Storybase](https://storybase.co.zw)
 
-- 🌱 I’m currently learning **ASP.NET Web API**
+- 🌱 I’m currently doing **.NET MAUI**
 
 - 👨‍💻 All of my projects are available at [https://tanakamawere.co.zw/projects](https://tanakamawere.co.zw/projects)
 
